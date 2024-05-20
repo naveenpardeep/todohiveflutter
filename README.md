@@ -1,16 +1,8 @@
-# todohiveflutter
+# ToDo
 
-A new Flutter project.
+A ToDo Flutter project that lets users add, delete and check the todos as complete. The data is persisted with the help of Hive so even if the app is removed from the background the user todos remains.
 
-## Getting Started
+## Demo of the app
 
-This project is a starting point for a Flutter application.
+![Flutter_ToDo](https://github.com/dipanshu18/flutter-todo/assets/88198352/664b7226-9d50-4a8f-828a-9e9d7d15acbf)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
